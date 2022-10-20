@@ -10,6 +10,4 @@ Specifically, 1) to exhaustively analyse the features for reasonable pruning, we
 
 ![All text](https://github.com/Oliiveralien/MDCP/blob/main/figs/model.jpeg)
 
-![All text](https://github.com/Oliiveralien/MDCP/blob/main/figs/vis.jpeg)
-
 The completed code will be avaiable as soon as possible.
