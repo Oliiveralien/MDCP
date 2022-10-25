@@ -13,7 +13,7 @@ Specifically, 1) to exhaustively analyse the features for reasonable pruning, we
 Completed codes and running instructions will be avaiable as soon as possible.
 
 Several pre-trained models can be download here:
-[ResNet20](https://drive.google.com/file/d/1-vy6OTjTDbWRIJSuxHAXPwxJ7I8KDQat/view?usp=sharing)
-https://drive.google.com/file/d/1BJvA9ausEdQrmGqYdwpiMyV8EqUzw5KG/view?usp=sharing
-https://drive.google.com/file/d/1_f8cRv7GxzJamU_8H5ct6AcxMXE3CThM/view?usp=sharing
-https://drive.google.com/file/d/1R8gl7Q18pIcHrxFkVGS-tYoR8LEfpxyz/view?usp=sharing
+[ResNet20](https://drive.google.com/file/d/1-vy6OTjTDbWRIJSuxHAXPwxJ7I8KDQat/view?usp=sharing),
+[ResNet34](https://drive.google.com/file/d/1BJvA9ausEdQrmGqYdwpiMyV8EqUzw5KG/view?usp=sharing),
+[ResNet56](https://drive.google.com/file/d/1_f8cRv7GxzJamU_8H5ct6AcxMXE3CThM/view?usp=sharing),
+[ResNet110](https://drive.google.com/file/d/1R8gl7Q18pIcHrxFkVGS-tYoR8LEfpxyz/view?usp=sharing).
