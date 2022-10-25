@@ -10,4 +10,4 @@ Specifically, 1) to exhaustively analyse the features for reasonable pruning, we
 
 ![All text](https://github.com/Oliiveralien/MDCP/blob/main/figs/model.jpeg)
 
-The completed code and running instruction will be avaiable as soon as possible.
+Completed codes and running instructions will be avaiable as soon as possible.
