@@ -10,10 +10,10 @@ Specifically, 1) to exhaustively analyse the features for reasonable pruning, we
 
 ![All text](https://github.com/Oliiveralien/MDCP/blob/main/figs/model.jpeg)
 
-Completed codes and running instructions will be avaiable as soon as possible.
-
 Several pre-trained models can be download here:
 [ResNet20](https://drive.google.com/file/d/1-vy6OTjTDbWRIJSuxHAXPwxJ7I8KDQat/view?usp=sharing),
 [ResNet34](https://drive.google.com/file/d/1BJvA9ausEdQrmGqYdwpiMyV8EqUzw5KG/view?usp=sharing),
 [ResNet56](https://drive.google.com/file/d/1_f8cRv7GxzJamU_8H5ct6AcxMXE3CThM/view?usp=sharing),
 [ResNet110](https://drive.google.com/file/d/1R8gl7Q18pIcHrxFkVGS-tYoR8LEfpxyz/view?usp=sharing).
+
+More pre-trained models, running instructions and the completed codes will be avaiable as soon as possible.
