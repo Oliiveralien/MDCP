@@ -1,9 +1,6 @@
 # MDCP
 
-This repo contains the code, results and evaluations of the paper ''Multi-Domain Clustering Pruning: Exploring Space and Frequency Similarity
-Based on GAN' in Neurocomputing.
-
-# Multi-Domain Clustering Pruning: Exploring Space and Frequency Similarity Based on GAN
+# Multi-Domain Clustering Pruning: Exploring Space and Frequency Similarity Based on GAN (MDCP)
 - Authors: Junsan Zhang, Yeqi Feng, Chao Wang, Mingwen Shao, Yujie Jiang and Jian Wang.
 
 <p align="left">
