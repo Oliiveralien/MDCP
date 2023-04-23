@@ -23,3 +23,7 @@ Several pre-trained models on CIFAR-10 can be download here:
 Checkpoints for pruning ResNet on ImageNet released [here](https://drive.google.com/drive/folders/190-JUeH5RoOzcWXKS0UDzOK-jNGwqUk4?hl=zh-cn)~
 
 More pre-trained models, running instructions and the completed codes will be avaiable as soon as possible.
+- [ ] **小麦的第二篇文章**
+    - [ ] 讲了一些做作业时遇到的问题
+    - [ ] 首先是制作平时喜欢的todo
+    - [x] 这里有todo的列表功能[语法参考](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
