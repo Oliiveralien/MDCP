@@ -1,7 +1,7 @@
 # MDCP
 
 This repo contains the code, results and evaluations of the paper ''Multi-Domain Clustering Pruning: Exploring Space and Frequency Similarity
-Based on GAN'.
+Based on GAN' on Neurocomputing.
 
 <img src="https://github.com/Oliiveralien/MDCP/blob/main/figs/teaser.jpeg" width="800" height="500" alt="抖音小程序"/><br/>
 
