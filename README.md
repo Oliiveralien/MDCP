@@ -14,16 +14,14 @@ Network compression plays an important role in accelerating deep neural networks
 
 ![All text](https://github.com/Oliiveralien/MDCP/blob/main/figs/new_pic1_page-0001.jpg)
 
+- [ ] **To do**
+    - [x] More pre-trained models
+    - [ ] running instructions
+
 Several pre-trained models on CIFAR-10 can be download here:
 [ResNet20](https://drive.google.com/file/d/1-vy6OTjTDbWRIJSuxHAXPwxJ7I8KDQat/view?usp=sharing),
 [ResNet34](https://drive.google.com/file/d/1BJvA9ausEdQrmGqYdwpiMyV8EqUzw5KG/view?usp=sharing),
 [ResNet56](https://drive.google.com/file/d/1_f8cRv7GxzJamU_8H5ct6AcxMXE3CThM/view?usp=sharing),
 [ResNet110](https://drive.google.com/file/d/1R8gl7Q18pIcHrxFkVGS-tYoR8LEfpxyz/view?usp=sharing).
-
 Checkpoints for pruning ResNet on ImageNet released [here](https://drive.google.com/drive/folders/190-JUeH5RoOzcWXKS0UDzOK-jNGwqUk4?hl=zh-cn)~
 
-More pre-trained models, running instructions and the completed codes will be avaiable as soon as possible.
-
-- [ ] **To do**
-    - [x] More pre-trained models
-    - [ ] running instructions
