@@ -1,5 +1,4 @@
 # Multi-Domain Clustering Pruning: Exploring Space and Frequency Similarity Based on GAN (MDCP)
-- Authors: Junsan Zhang, Yeqi Feng, Chao Wang, Mingwen Shao, Yujie Jiang and Jian Wang.
 
 <p align="left">
   <img src="https://github.com/Oliiveralien/MDCP/blob/main/figs/new_teaser_page-0001.jpg" width="70%">
