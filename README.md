@@ -24,3 +24,6 @@ Several pre-trained models on CIFAR-10 can be download here:
 
 Checkpoints for pruning ResNet on ImageNet released [here](https://drive.google.com/drive/folders/190-JUeH5RoOzcWXKS0UDzOK-jNGwqUk4?hl=zh-cn)~
 
+## Acknowledgments
+- [FPGM](https://github.com/he-y/filter-pruning-geometric-median)
+- [GAL](https://github.com/anonymouscvpr1983/GAL)
