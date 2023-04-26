@@ -1,5 +1,8 @@
 # Multi-Domain Clustering Pruning: Exploring Space and Frequency Similarity Based on GAN (MDCP)
 
+## 🌟 Features
+Static pruning considering both Sapce and Frequency redundancy.
+
 <p align="left">
   <img src="https://github.com/Oliiveralien/MDCP/blob/main/figs/new_teaser_page-0001.jpg" width="70%">
 </p>
