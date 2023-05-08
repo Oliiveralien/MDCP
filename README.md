@@ -27,3 +27,15 @@ Checkpoints for pruning ResNet on ImageNet released [here](https://drive.google.
 ## Acknowledgments
 - [FPGM](https://github.com/he-y/filter-pruning-geometric-median)
 - [GAL](https://github.com/anonymouscvpr1983/GAL)
+
+## Citation
+If you find this work useful for your research, please cite us:
+```
+@article{zhang2023multi,
+  title={Multi-Domain Clustering Pruning: Exploring Space and Frequency Similarity Based on GAN},
+  author={Zhang, Junsan and Feng, Yeqi and Wang, Chao and Shao, Mingwen and Jiang, Yujie and Wang, Jian},
+  journal={Neurocomputing},
+  pages={126279},
+  year={2023}
+}
+```
